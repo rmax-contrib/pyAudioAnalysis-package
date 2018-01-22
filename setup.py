@@ -18,4 +18,7 @@ setup(
         'eyed3',
         'pydub',
     ],
+    extras_require={
+        'plot': ['matplotlib'],
+    },
 )
