@@ -1,3 +1,3 @@
 [submodule "pyAudioAnalysis"]
 	path = pyAudioAnalysis
-	url = git@github.com:tyiannak/pyAudioAnalysis.git
+	url = git@github.com:rmax-contrib/pyAudioAnalysis.git
