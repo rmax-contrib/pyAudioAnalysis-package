@@ -8,7 +8,7 @@ setup(
     url='https://github.com/tyiannak/pyAudioAnalysis',
     packages=find_packages(),
     include_package_data=True,
-    install_require=[
+    install_requires=[
         'numpy',
         'matplotlib',
         'scipy',
